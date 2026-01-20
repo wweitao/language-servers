@@ -38,6 +38,12 @@ Monorepo
       support for YAML format. Includes reusable code related to YAML language
       service handling.
 
+## Maintainer
+
+**Aliases:**
+- wweitao
+- parkjinwoo
+
 ## Contributing
 
 - [How to contribute](CONTRIBUTING.md#contributing)
