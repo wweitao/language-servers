@@ -40,7 +40,9 @@ Monorepo
 
 ## Maintainer
 
-**Alias:** wweitao
+**Aliases:**
+- wweitao
+- parkjinwoo
 
 ## Contributing
 
